@@ -17,9 +17,7 @@ Installation
 ------------
 Copy this project to your openFrameworks/add-ons folder.
 
-For issues relating to graphics cards and usage of Software Development Kit 10.8 with OpenCL, install the following drivers:
-   1. [www.nvidia.com/object/cuda-mac-driver.html]
-   2. [http://www.nvidia.com/object/cuda-mac-driver.html]
+For issues relating to graphics cards and usage of Software Development Kit 10.8 with OpenCL, install the following drivers available at: www.nvidia.com/object/cuda-mac-driver.html
 
 Dependencies
 ------------

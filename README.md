@@ -3,7 +3,7 @@ ofxMSAOpenCL
 
 Introduction
 ------------
-C++ openFrameworks addon for very simple to use wrapper for OpenCL. All underlying openCL objects are accessible to allow advanced features too if need be.
+ofxMSAOpenCL is an easy-to-use C++ openFrameworks add-on for OpenCL wrappers. All underlying openCL objects are accessible and allow advanced features.
 Demo (1M particles @ 100-200 fps) at [vimeo.com/7332496](http://vimeo.com/7332496)
 
 Licence

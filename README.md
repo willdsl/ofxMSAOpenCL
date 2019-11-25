@@ -6,19 +6,20 @@ Introduction
 ofxMSAOpenCL is an easy-to-use C++ openFrameworks add-on for OpenCL wrappers. All underlying openCL objects are accessible and allow advanced features.
 Demo (1M particles @ 100-200 fps) at [vimeo.com/7332496](http://vimeo.com/7332496)
 
-Licence
+License
 -------
-The code in this repository is available under the [MIT License](https://secure.wikimedia.org/wikipedia/en/wiki/Mit_license).  
+This source code is licensed under the [MIT License](https://secure.wikimedia.org/wikipedia/en/wiki/Mit_license).  
 Copyright (c) 2008-2012 Memo Akten, [www.memo.tv](http://www.memo.tv)  
 The Mega Super Awesome Visuals Company
 
 
 Installation
 ------------
-Copy to your openFrameworks/addons folder.
+Copy this project to your openFrameworks/add-ons folder.
 
-I've had some problems on 10.8 with OpenCL. I've had to install these drivers [www.nvidia.com/object/cuda-mac-driver.html](http://www.nvidia.com/object/cuda-mac-driver.html) for my graphics card to work.
-
+For issues relating to graphics cards and usage of Software Development Kit 10.8 with OpenCL, install the following drivers:
+   1. [www.nvidia.com/object/cuda-mac-driver.html]
+   2. [http://www.nvidia.com/object/cuda-mac-driver.html]
 
 Dependencies
 ------------
